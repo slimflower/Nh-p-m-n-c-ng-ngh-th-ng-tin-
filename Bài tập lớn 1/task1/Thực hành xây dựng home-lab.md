@@ -3,4 +3,3 @@
 
 <img width="934" alt="Ảnh màn hình 2024-12-10 lúc 18 19 18" src="https://github.com/user-attachments/assets/80120b6c-aa9f-44db-a154-deae29f63d8e">
 
-# Xây dựng home-lab với Vmware Workstation cho phép 3 thiết bị ảo này kết nối được với nhau thông qua Vnetwork

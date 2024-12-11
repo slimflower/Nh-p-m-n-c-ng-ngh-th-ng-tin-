@@ -54,7 +54,7 @@
 
 <img width="1104" alt="Ảnh màn hình 2024-12-11 lúc 21 23 39" src="https://github.com/user-attachments/assets/90a56343-29a0-4616-96cf-5dfc57c61983">
 
-
+## Phần 3 . Chạy dự án trên XAMPP
 - Đây là dự án mà tôi đã làm .Sau khi tôi đưa nó vào thì tôi truy cập vào localhost và tôi thấy được thư mục của mình hiện ở đó :
 
 <img width="858" alt="Ảnh màn hình 2024-12-11 lúc 21 25 16" src="https://github.com/user-attachments/assets/a02969fa-571c-42ca-8065-4bd255abc5bd">

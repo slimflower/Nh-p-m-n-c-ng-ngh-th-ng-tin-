@@ -17,3 +17,12 @@
 - **Filezilla**: Nó là một máy chủ giao thức truyền tệp hỗ trợ và làm cho việc truyền tệp dễ dàng hơn. Phiên bản cập nhật gần đây nhất là 0.9.41
 ## Tải xuống và cài đặt XAMPP trên máy tính của bạn
 - Truy cập https://www.apachefriends.org/download.html
+# Xây dựng web trên XAMPP
+- Chia làm 3 phần để có thể dễ hình dung và khái quát hơn
+  - Phần 1 : Khởi động XAMPP
+  - Phần 2 : Tạo dự án
+  - Phần 3 : Chạy dự án trên XAMPP
+## Phần 1. Khởi động XAMPP
+- Sau khi download XAMPP và cài đặt xong thì chúng ta sẽ có được giao diện như này :
+
+
